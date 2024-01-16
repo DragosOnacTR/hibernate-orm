@@ -12,10 +12,12 @@ on:
     branches:
       - 'main'
       - 'wip/5.2.18/HHH-17684-build'
+       - '**'  
   pull_request:
     branches:
       - 'main'
       - 'wip/5.2.18/HHH-17684-build'
+       - '**'  
       
 permissions: {} # none
 
