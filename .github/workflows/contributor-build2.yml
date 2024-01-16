@@ -11,11 +11,11 @@ on:
   push:
     branches:
       - 'main'
-      - 'wip/5.2.18/HHH-17648'
+      - 'wip/5.2.18/HHH-17648-build'
   pull_request:
     branches:
       - 'main'
-      - 'wip/5.2.18/HHH-17648'
+      - 'wip/5.2.18/HHH-17648-build'
       
 permissions: {} # none
 
